@@ -9,7 +9,7 @@ Data to be collected:
 Sources:
 -  https://www.niche.com/blog/the-100-largest-colleges-in-america/
 -  https://www.whatcountyamiin.com/
-- ?(census data)
+-  https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_70769902
 - https://github.com/CSSEGISandData/COVID-19
 - ERD of database
 
