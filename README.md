@@ -5,6 +5,7 @@ Data to be collected:
 2. counties for each university
 3. census data for population of counties above
 4. COVID-19 data for each of the counties above
+5.  Cases at each university from NYT article
 
 Sources:
 -  https://www.niche.com/blog/the-100-largest-colleges-in-america/
@@ -12,9 +13,11 @@ Sources:
 -  https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_70769902
 - https://github.com/CSSEGISandData/COVID-19
 - ERD of database
+-  https://www.nytimes.com/interactive/2020/07/28/us/covid-19-colleges-universities.html
 
 Data acquisition methods:
 - scraping for top 100 universities
+-  scraping NYT article
 - scraping for assigning counties to universities
 - download CSV for census data
 - Use API for COVID-19 data
