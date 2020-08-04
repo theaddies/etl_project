@@ -8,13 +8,13 @@
 6,7,Ashford University,"8620 Spectrum Center Boulevard, San Diego, CA 92123","37,066",C-,"San Diego, CA",100%,https://www.niche.com/colleges/ashford-university/, San Diego County
 7,8,University of Texas - Austin,"110 Inner Campus Drive, Austin, TX 78712","36,565",A+,"Austin, TX",39.24%,https://www.niche.com/colleges/university-of-texas---austin/, Travis County
 8,9,Michigan State University,"220 Trowbridge Rd, East Lansing, MI 48824","35,645",A+,"East Lansing, MI",66.28%,https://www.niche.com/colleges/michigan-state-university/, Ingham County
-9,10,Rutgers University,"100 Sutphen Road, Piscataway, NJ 08854","33,392",A,"New Brunswick, NJ",58.45%,https://www.niche.com/colleges/rutgers-university/, Middlesex
+9,10,Rutgers University,"100 Sutphen Road, Piscataway, NJ 08854","33,392",A,"New Brunswick, NJ",58.45%,https://www.niche.com/colleges/rutgers-university/, Middlesex County
 10,11,University of Illinois at Urbana-Champaign,"601 E John Street, Champaign, IL 61820","31,989",A+,"Champaign, IL",65.56%,https://www.niche.com/colleges/university-of-illinois-at-urbana-champaign/, Champaign County
 11,12,Indiana University - Bloomington,"107 S. Indiana Ave.Bloomington, IN 47405","31,728",A,"Bloomington, IN",77.99%,https://www.niche.com/colleges/indiana-university---bloomington/, Monroe County
-12,13,California State University - Northridge,"18111 Nordhoff St, Northridge, CA 91330","30,281",B,"Los Angeles, CA",45.6%,https://www.niche.com/colleges/california-state-university---northridge/, Los Angeles County
+12,13,California State University - Northridge,"18111 Nordhoff St, Northridge, CA 91330","30,281",B,"Los Angeles, CA",45.60%,https://www.niche.com/colleges/california-state-university---northridge/, Los Angeles County
 13,14,University of Florida,"Tigert Hall, Gainesville, FL 32611","30,168",A+,"Gainesville, FL",47.54%,https://www.niche.com/colleges/university-of-florida/, Alachua County
 14,15,University of Arizona,"1401 E University, Tucson, AZ 85721","29,597",A-,"Tucson, AZ",76.43%,https://www.niche.com/colleges/university-of-arizona/, Pima County
-15,16,Florida State University,"222 S. Copeland Street, Tallahassee, FL 32306","29,185",A,"Tallahassee, FL",55.9%,https://www.niche.com/colleges/florida-state-university/, Leon County
+15,16,Florida State University,"222 S. Copeland Street, Tallahassee, FL 32306","29,185",A,"Tallahassee, FL",55.90%,https://www.niche.com/colleges/florida-state-university/, Leon County
 16,17,University of Minnesota - Twin Cities,"100 Church Street SEMinneapolis, MN 55455","29,168",A+,"Minneapolis, MN",44.58%,https://www.niche.com/colleges/university-of-minnesota---twin-cities/, Hennepin County
 17,18,University of California - Los Angeles,"405 Hilgard Ave, Los Angeles, CA 90095","29,004",A+,"Los Angeles, CA",17.28%,https://www.niche.com/colleges/university-of-california---los-angeles/, Los Angeles County
 18,19,Iowa State University,"1750 Beardshear Hall, Ames, IA 50011","28,771",A,"Ames, IA",87.15%,https://www.niche.com/colleges/iowa-state-university/, Story County
@@ -23,7 +23,7 @@
 21,22,University of Wisconsin,"500 Lincoln Dr, Madison, WI 53706","28,555",A+,"Madison, WI",57.61%,https://www.niche.com/colleges/university-of-wisconsin/, Dane County
 22,23,University of Washington,"1410 NE Campus Parkway, Seattle, WA 98195","28,377",A+,"Seattle, WA",53.33%,https://www.niche.com/colleges/university-of-washington/, King County
 23,24,California State University - Long Beach,"1250 Bellflower Blvd, Long Beach, CA 90840","27,829",A-,"Long Beach, CA",33.82%,https://www.niche.com/colleges/california-state-university---long-beach/, Los Angeles County
-24,25,Liberty University,"1971 University Blvd, Lynchburg, VA 24515","27,671",B+,"Lynchburg, VA",21.56%,https://www.niche.com/colleges/liberty-university/, City of Lynchburg
+24,25,Liberty University,"1971 University Blvd, Lynchburg, VA 24515","27,671",B+,"Lynchburg, VA",21.56%,https://www.niche.com/colleges/liberty-university/,Campbell County
 25,26,University of California - Davis,"One Shields Avenue, Davis, CA 95616","27,453",A,"Davis, CA",37.95%,https://www.niche.com/colleges/university-of-california---davis/, Yolo County
 26,27,Texas State University,"601 University Dr, San Marcos, TX 78666","27,369",B+,"San Marcos, TX",70.84%,https://www.niche.com/colleges/texas-state-university/, Hays County
 27,28,Brigham Young University,"Main Campus, Provo, UT 84602","27,339",A+,"Provo, UT",48.05%,https://www.niche.com/colleges/brigham-young-university/,Utah County
@@ -34,9 +34,9 @@
 32,33,University of Missouri,"105 Jesse Hall, Columbia, MO 65211","26,027",A-,"Columbia, MO",78.13%,https://www.niche.com/colleges/university-of-missouri/, Boone County
 33,34,San Diego State University,"5500 Campanile Dr, San Diego, CA 92182","26,010",A-,"San Diego, CA",34.41%,https://www.niche.com/colleges/san-diego-state-university/, San Diego County
 34,35,University of California - San Diego,"9500 Gilman Dr, La Jolla, CA 92093","25,922",A,"San Diego, CA",33.74%,https://www.niche.com/colleges/university-of-california---san-diego/, San Diego County
-35,36,University of Georgia,"Administration Building, Athens, GA 30602","25,906",A+,"Athens, GA",52.88%,https://www.niche.com/colleges/university-of-georgia/,Athens-Clarke County
-36,37,Florida International University,"11200 S. W. 8 Street, Miami, FL 33199","25,638",A-,"Miami, FL",50.4%,https://www.niche.com/colleges/florida-international-university/, Miami-Dade County
-37,38,Ivy Tech Community College - Central Indiana,"50 W. Fall Creek Parkway N. Drive, Indianapolis, IN 46208","25,614",C+,"Indianapolis, IN",100%,https://www.niche.com/colleges/ivy-tech-community-college---central-indiana/, Marion
+35,36,University of Georgia,"Administration Building, Athens, GA 30602","25,906",A+,"Athens, GA",52.88%,https://www.niche.com/colleges/university-of-georgia/,Clarke County
+36,37,Florida International University,"11200 S. W. 8 Street, Miami, FL 33199","25,638",A-,"Miami, FL",50.40%,https://www.niche.com/colleges/florida-international-university/, Miami-Dade County
+37,38,Ivy Tech Community College - Central Indiana,"50 W. Fall Creek Parkway N. Drive, Indianapolis, IN 46208","25,614",C+,"Indianapolis, IN",100%,https://www.niche.com/colleges/ivy-tech-community-college---central-indiana/, Marion County
 38,39,University of Maryland - College Park,"7999 Regents Dr, College Park, MD 20742","25,410",A+,"College Park, MD",44.88%,https://www.niche.com/colleges/university-of-maryland---college-park/, Prince George's County
 39,40,Temple University,"1801 North Broad Street, Philadelphia, PA 19122","25,318",A-,"Philadelphia, PA",55.68%,https://www.niche.com/colleges/temple-university/, Philadelphia County
 40,41,University of Colorado - Boulder,"Regent Drive at Broadway, Boulder, CO 80309","25,059",A,"Boulder, CO",79.62%,https://www.niche.com/colleges/university-of-colorado---boulder/, Boulder County
@@ -45,11 +45,11 @@
 43,44,University of California - Irvine,"501 Aldrich Hall, Irvine, CA 92697","24,854",A,"Irvine, CA",38.68%,https://www.niche.com/colleges/university-of-california---irvine/, Orange County
 44,45,Virginia Tech,"925 Prices Fork Road, Blacksburg, VA 24061","24,841",A+,"Blacksburg, VA",73.41%,https://www.niche.com/colleges/virginia-tech/, Montgomery County
 45,46,Miami Dade College,"300 NE 2nd Avenue, Miami, FL 33132","24,716",C,"Miami, FL",100%,https://www.niche.com/colleges/miami-dade-college/, Miami-Dade County
-46,47,New York University,"383 Lafayette St, New York, NY 10003","24,480",A+,"New York City, NY",32.07%,https://www.niche.com/colleges/new-york-university/, New York County
+46,47,New York University,"383 Lafayette St, New York, NY 10003","24,480",A+,"New York City, NY",32.07%,https://www.niche.com/colleges/new-york-university/,New York City County
 47,48,University of South Florida,"4202 East Fowler Ave, Tampa, FL 33620","24,088",A,"Tampa, FL",44.64%,https://www.niche.com/colleges/university-of-south-florida/, Hillsborough County
 48,49,University of South Carolina,"Columbia-Campus, Columbia, SC 29208","23,613",A-,"Columbia, SC",64.53%,https://www.niche.com/colleges/university-of-south-carolina/,Richland County
-49,50,Louisiana State University,"156 Thomas Boyd Hall, Baton Rouge, LA 70803","23,602",A-,"Baton Rouge, LA",77.34%,https://www.niche.com/colleges/louisiana-state-university/, East Baton Rouge Parish
-50,51,San Francisco State University,"1600 Holloway Ave, San Francisco, CA 94132","22,206",B-,"San Francisco, CA",67.88%,https://www.niche.com/colleges/san-francisco-state-university/, San Francisco
+49,50,Louisiana State University,"156 Thomas Boyd Hall, Baton Rouge, LA 70803","23,602",A-,"Baton Rouge, LA",77.34%,https://www.niche.com/colleges/louisiana-state-university/, East Baton Rouge County
+50,51,San Francisco State University,"1600 Holloway Ave, San Francisco, CA 94132","22,206",B-,"San Francisco, CA",67.88%,https://www.niche.com/colleges/san-francisco-state-university/, San Francisco County
 51,52,California State University - Sacramento,"6000 J St, Sacramento, CA 95819","22,165",B,"Sacramento, CA",67.25%,https://www.niche.com/colleges/california-state-university---sacramento/, Sacramento County
 52,53,San Jose State University,"One Washington Square, San Jose, CA 95192","21,638",B-,"San Jose, CA",55.22%,https://www.niche.com/colleges/san-jose-state-university/, Santa Clara County
 53,54,Northern Arizona University,"1900 S Knoles Dr, Flagstaff, AZ 86011","21,494",B+,"Flagstaff, AZ",78%,https://www.niche.com/colleges/northern-arizona-university/, Coconino County
@@ -60,13 +60,13 @@
 58,59,University of Cincinnati,"2624 Clifton Avenue, Cincinnati, OH 45221","21,017",A-,"Cincinnati, OH",85.58%,https://www.niche.com/colleges/university-of-cincinnati/, Hamilton County
 59,60,Montclair State University,"1 Normal Avenue, Montclair, NJ 07043","21,000",B,"Montclair Township, NJ",70.07%,https://www.niche.com/colleges/montclair-state-university/, Passaic County
 60,61,Colorado State University,"711 Oval Drive Ammons Hall, Fort Collins, CO 80521","20,769",A,"Fort Collins, CO",80.82%,https://www.niche.com/colleges/colorado-state-university/, Larimer County
-61,62,University of Tennessee,"527 Andy Holt Tower, Knoxville, TN 37996","20,569",A-,"Knoxville, TN",76.3%,https://www.niche.com/colleges/university-of-tennessee/, Knox County
+61,62,University of Tennessee,"527 Andy Holt Tower, Knoxville, TN 37996","20,569",A-,"Knoxville, TN",76.30%,https://www.niche.com/colleges/university-of-tennessee/, Knox County
 62,63,West Virginia University,"PO Box 6201Morgantown, WV 26506","20,532",A-,"Morgantown, WV",85.81%,https://www.niche.com/colleges/west-virginia-university/,Monongalia County
 63,64,California State University - Los Angeles,"5151 State University Dr, Los Angeles, CA 90032","20,380",B-,"Los Angeles, CA",68.13%,https://www.niche.com/colleges/california-state-university---los-angeles/, Los Angeles County
 64,65,University of California - Santa Barbara,"5221 Cheadle Hall, Santa Barbara, CA 93106","20,243",A+,"Santa Barbara, CA",32.64%,https://www.niche.com/colleges/university-of-california---santa-barbara/, Santa Barbara County
 65,66,University of Texas - San Antonio,"One UTSA Circle, San Antonio, TX 78249","20,234",B,"San Antonio, TX",77.95%,https://www.niche.com/colleges/university-of-texas---san-antonio/, Bexar County
 66,67,Southern New Hampshire University,"2500 North River Road, Manchester, NH 03106","20,193",B,"Manchester, NH",84%,https://www.niche.com/colleges/southern-new-hampshire-university/, Merrimack County
-67,68,Virginia Commonwealth University,"910 W Franklin St, Richmond, VA 23284","20,137",B+,"Richmond, VA",78.95%,https://www.niche.com/colleges/virginia-commonwealth-university/, Richmond City
+67,68,Virginia Commonwealth University,"910 W Franklin St, Richmond, VA 23284","20,137",B+,"Richmond, VA",78.95%,https://www.niche.com/colleges/virginia-commonwealth-university/, Richmond City County
 68,69,University of Iowa,"108 Calvin Hall, Iowa City, IA 52242","19,911",A,"Iowa City, IA",80.74%,https://www.niche.com/colleges/university-of-iowa/, Johnson County
 69,70,University of North Carolina at Charlotte,"9201 University City Blvd, Charlotte, NC 28223","19,765",B+,"Charlotte, NC",63.31%,https://www.niche.com/colleges/university-of-north-carolina-at-charlotte/, Mecklenburg County
 70,71,Auburn University,"The Quad Center, Auburn, AL 36849","19,738",A,"Auburn, AL",77.66%,https://www.niche.com/colleges/auburn-university/, Lee County
@@ -87,15 +87,15 @@
 85,86,James Madison University,"800 South Main Street, Harrisonburg, VA 22807","18,433",A,"Harrisonburg, VA",72.57%,https://www.niche.com/colleges/james-madison-university/, Rockingham County
 86,87,George Mason University,"4400 University Dr, Fairfax, VA 22030","18,430",A-,"Fairfax, VA",68.87%,https://www.niche.com/colleges/george-mason-university/, Fairfax County
 87,88,Oklahoma State University,"107 Whitehurst, Stillwater, OK 74078","18,347",A,"Stillwater, OK",75.13%,https://www.niche.com/colleges/oklahoma-state-university/, Payne County
-88,89,University of Wisconsin - Milwaukee,"2200 E Kenwood Blvd, Milwaukee, WI 53211","18,316",B+,"Milwaukee, WI",85.78%,https://www.niche.com/colleges/university-of-wisconsin---milwaukee/, Walworth
-89,90,University of California - Riverside,"900 University Ave, Riverside, CA 92521","18,279",A-,"Riverside, CA",55.6%,https://www.niche.com/colleges/university-of-california---riverside/, Riverside County
-90,91,University of Southern California,"University Park, Los Angeles, CA 90089","18,208",A+,"Los Angeles, CA",16.6%,https://www.niche.com/colleges/university-of-southern-california/, Los Angeles County
+88,89,University of Wisconsin - Milwaukee,"2200 E Kenwood Blvd, Milwaukee, WI 53211","18,316",B+,"Milwaukee, WI",85.78%,https://www.niche.com/colleges/university-of-wisconsin---milwaukee/, Walworth County
+89,90,University of California - Riverside,"900 University Ave, Riverside, CA 92521","18,279",A-,"Riverside, CA",55.60%,https://www.niche.com/colleges/university-of-california---riverside/, Riverside County
+90,91,University of Southern California,"University Park, Los Angeles, CA 90089","18,208",A+,"Los Angeles, CA",16.60%,https://www.niche.com/colleges/university-of-southern-california/, Los Angeles County
 91,92,University of Oklahoma,"660 Parrington Oval, Norman, OK 73019","18,133",A,"Norman, OK",77.64%,https://www.niche.com/colleges/university-of-oklahoma/, Cleveland County
 92,93,University of Connecticut,"352 Mansfield Road, Storrs, CT 06269","18,131",A-,"Storrs, CT",53.17%,https://www.niche.com/colleges/university-of-connecticut/, Tolland County
-93,94,CUNY Borough of Manhattan Community College,"199 Chambers Street, New York, NY 10007","18,074",B-,"New York City, NY",100%,https://www.niche.com/colleges/cuny-borough-of-manhattan-community-college/, New York County
+93,94,CUNY Borough of Manhattan Community College,"199 Chambers Street, New York, NY 10007","18,074",B-,"New York City, NY",100%,https://www.niche.com/colleges/cuny-borough-of-manhattan-community-college/,New York City County
 94,95,Kansas State University,"919 Mid-Campus Drive, Anderson Hall, Manhattan, KS 66506","17,935",A,"Manhattan, KS",94.92%,https://www.niche.com/colleges/kansas-state-university/, Riley County
 95,96,Full Sail University,"3300 University Blvd, Winter Park, FL 32792","17,890",B,"Winter Park, FL",100%,https://www.niche.com/colleges/full-sail-university/, Orange County
 96,97,University of Pittsburgh,"4200 Fifth Avenue, Pittsburgh, PA 15260","17,887",A,"Pittsburgh, PA",53.89%,https://www.niche.com/colleges/university-of-pittsburgh/, Allegheny County
-97,98,Kennesaw State University,"1000 Chastain Rd, Kennesaw, GA 30144","17,732",B,"Kennesaw, GA",53.4481%,https://www.niche.com/colleges/kennesaw-state-university/, Cobb County
+97,98,Kennesaw State University,"1000 Chastain Rd, Kennesaw, GA 30144","17,732",B,"Kennesaw, GA",53.45%,https://www.niche.com/colleges/kennesaw-state-university/, Cobb County
 98,99,Central Michigan University,"101 Warriner Hall, Mount Pleasant, MI 48859","17,669",B+,"Mount Pleasant, MI",68.75%,https://www.niche.com/colleges/central-michigan-university/, Isabella County
 99,100,University of North Carolina at Chapel Hill,"103 South Bldg Cb 9100Chapel Hill, NC 27599","17,645",A+,"Chapel Hill, NC",30.54%,https://www.niche.com/colleges/university-of-north-carolina-at-chapel-hill/,Orange County

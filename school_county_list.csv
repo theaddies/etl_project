@@ -1,0 +1,101 @@
+county-state,College Name,Location,county,state
+ Salt Lake County - Utah,Western Governors University,"Salt Lake City, UT", Salt Lake County,Utah
+ Brazos County - Texas,Texas A&M University,"College Station, TX", Brazos County,Texas
+ Franklin County - Ohio,Ohio State University,"Columbus, OH", Franklin County,Ohio
+ Centre County - Pennsylvania,Penn State,"State College, PA", Centre County,Pennsylvania
+Maricopa County - Arizona,Arizona State University,"Tempe, AZ",Maricopa County,Arizona
+ Orange County - Florida,University of Central Florida,"Orlando, FL", Orange County,Florida
+ San Diego County - California,Ashford University,"San Diego, CA", San Diego County,California
+ Travis County - Texas,University of Texas - Austin,"Austin, TX", Travis County,Texas
+ Ingham County - Michigan,Michigan State University,"East Lansing, MI", Ingham County,Michigan
+ Middlesex County - New Jersey,Rutgers University,"New Brunswick, NJ", Middlesex County,New Jersey
+ Champaign County - Illinois,University of Illinois at Urbana-Champaign,"Champaign, IL", Champaign County,Illinois
+ Monroe County - Indiana,Indiana University - Bloomington,"Bloomington, IN", Monroe County,Indiana
+ Los Angeles County - California,California State University - Northridge,"Los Angeles, CA", Los Angeles County,California
+ Alachua County - Florida,University of Florida,"Gainesville, FL", Alachua County,Florida
+ Pima County - Arizona,University of Arizona,"Tucson, AZ", Pima County,Arizona
+ Leon County - Florida,Florida State University,"Tallahassee, FL", Leon County,Florida
+ Hennepin County - Minnesota,University of Minnesota - Twin Cities,"Minneapolis, MN", Hennepin County,Minnesota
+ Los Angeles County - California,University of California - Los Angeles,"Los Angeles, CA", Los Angeles County,California
+ Story County - Iowa,Iowa State University,"Ames, IA", Story County,Iowa
+ Tuscaloosa County - Alabama,University of Alabama,"Tuscaloosa, AL", Tuscaloosa County,Alabama
+ Tippecanoe County - Indiana,Purdue University,"West Lafayette, IN", Tippecanoe County,Indiana
+ Dane County - Wisconsin,University of Wisconsin,"Madison, WI", Dane County,Wisconsin
+ King County - Washington,University of Washington,"Seattle, WA", King County,Washington
+ Los Angeles County - California,California State University - Long Beach,"Long Beach, CA", Los Angeles County,California
+Campbell County - Virginia,Liberty University,"Lynchburg, VA",Campbell County,Virginia
+ Yolo County - California,University of California - Davis,"Davis, CA", Yolo County,California
+ Hays County - Texas,Texas State University,"San Marcos, TX", Hays County,Texas
+Utah County - Utah,Brigham Young University,"Provo, UT",Utah County,Utah
+ Washtenaw County - Michigan,University of Michigan - Ann Arbor,"Ann Arbor, MI", Washtenaw County,Michigan
+ Orange County - California,California State University - Fullerton,"Fullerton, CA", Orange County,California
+ Alameda County - California,University of California - Berkeley,"Berkeley, CA", Alameda County,California
+ Lubbock County - Texas,Texas Tech University,"Lubbock, TX", Lubbock County,Texas
+ Boone County - Missouri,University of Missouri,"Columbia, MO", Boone County,Missouri
+ San Diego County - California,San Diego State University,"San Diego, CA", San Diego County,California
+ San Diego County - California,University of California - San Diego,"San Diego, CA", San Diego County,California
+Clarke County - Georgia,University of Georgia,"Athens, GA",Clarke County,Georgia
+ Miami-Dade County - Florida,Florida International University,"Miami, FL", Miami-Dade County,Florida
+ Marion County - Indiana,Ivy Tech Community College - Central Indiana,"Indianapolis, IN", Marion County,Indiana
+ Prince George's County - Maryland,University of Maryland - College Park,"College Park, MD", Prince George's County,Maryland
+ Philadelphia County - Pennsylvania,Temple University,"Philadelphia, PA", Philadelphia County,Pennsylvania
+ Boulder County - Colorado,University of Colorado - Boulder,"Boulder, CO", Boulder County,Colorado
+Denton County - Texas,University of North Texas,"Denton, TX",Denton County,Texas
+ Harris County - Texas,University of Houston,"Houston, TX", Harris County,Texas
+ Orange County - California,University of California - Irvine,"Irvine, CA", Orange County,California
+ Montgomery County - Virginia,Virginia Tech,"Blacksburg, VA", Montgomery County,Virginia
+ Miami-Dade County - Florida,Miami Dade College,"Miami, FL", Miami-Dade County,Florida
+New York City County - New York,New York University,"New York City, NY",New York City County,New York
+ Hillsborough County - Florida,University of South Florida,"Tampa, FL", Hillsborough County,Florida
+Richland County - South Carolina,University of South Carolina,"Columbia, SC",Richland County,South Carolina
+ East Baton Rouge County - Louisiana,Louisiana State University,"Baton Rouge, LA", East Baton Rouge County,Louisiana
+ San Francisco County - California,San Francisco State University,"San Francisco, CA", San Francisco County,California
+ Sacramento County - California,California State University - Sacramento,"Sacramento, CA", Sacramento County,California
+ Santa Clara County - California,San Jose State University,"San Jose, CA", Santa Clara County,California
+ Coconino County - Arizona,Northern Arizona University,"Flagstaff, AZ", Coconino County,Arizona
+ Whitman County - Washington,Washington State University,"Pullman, WA", Whitman County,Washington
+ Fayette County - Kentucky,University of Kentucky,"Lexington, KY", Fayette County,Kentucky
+ Hampshire County - Massachusetts,University of Massachusetts - Amherst,"Amherst, MA", Hampshire County,Massachusetts
+ Wake County - North Carolina,North Carolina State University,"Raleigh, NC", Wake County,North Carolina
+ Hamilton County - Ohio,University of Cincinnati,"Cincinnati, OH", Hamilton County,Ohio
+ Passaic County - New Jersey,Montclair State University,"Montclair Township, NJ", Passaic County,New Jersey
+ Larimer County - Colorado,Colorado State University,"Fort Collins, CO", Larimer County,Colorado
+ Knox County - Tennessee,University of Tennessee,"Knoxville, TN", Knox County,Tennessee
+Monongalia County - West Virginia,West Virginia University,"Morgantown, WV",Monongalia County,West Virginia
+ Los Angeles County - California,California State University - Los Angeles,"Los Angeles, CA", Los Angeles County,California
+ Santa Barbara County - California,University of California - Santa Barbara,"Santa Barbara, CA", Santa Barbara County,California
+ Bexar County - Texas,University of Texas - San Antonio,"San Antonio, TX", Bexar County,Texas
+ Merrimack County - New Hampshire,Southern New Hampshire University,"Manchester, NH", Merrimack County,New Hampshire
+ Richmond City County - Virginia,Virginia Commonwealth University,"Richmond, VA", Richmond City County,Virginia
+ Johnson County - Iowa,University of Iowa,"Iowa City, IA", Johnson County,Iowa
+ Mecklenburg County - North Carolina,University of North Carolina at Charlotte,"Charlotte, NC", Mecklenburg County,North Carolina
+ Lee County - Alabama,Auburn University,"Auburn, AL", Lee County,Alabama
+ Los Angeles County - California,California State Polytechnic University - Pomona,"Pomona, CA", Los Angeles County,California
+ Washington County - Arkansas,University of Arkansas,"Fayetteville, AR", Washington County,Arkansas
+ Ottawa County - Michigan,Grand Valley State University,"Allendale, MI", Ottawa County,Michigan
+ Pitt County - North Carolina,East Carolina University,"Greenville, NC", Pitt County,North Carolina
+San Luis Obispo County - California,California Polytechnic State University - San Luis Obispo,"San Luis Obispo, CA",San Luis Obispo County,California
+ Stark County - Ohio,Kent State University,"Kent, OH", Stark County,Ohio
+ Lancaster County - Nebraska,University of Nebraska - Lincoln,"Lincoln, NE", Lancaster County,Nebraska
+ Fulton County - Georgia,Georgia State University,"Atlanta, GA", Fulton County,Georgia
+ Montgomery County - Texas,Lone Star College System,"The Woodlands, TX", Montgomery County,Texas
+ Fresno County - California,California State University - Fresno,"Fresno, CA", Fresno County,California
+ Lane County - Oregon,University of Oregon,"Eugene, OR", Lane County,Oregon
+ Benton County - Oregon,Oregon State University,"Corvallis, OR", Benton County,Oregon
+ Erie County - New York,"University at Buffalo, SUNY","Buffalo, NY", Erie County,New York
+ Fairfax County - Virginia,Northern Virginia Community College,"Annandale, VA", Fairfax County,Virginia
+ Rockingham County - Virginia,James Madison University,"Harrisonburg, VA", Rockingham County,Virginia
+ Fairfax County - Virginia,George Mason University,"Fairfax, VA", Fairfax County,Virginia
+ Payne County - Oklahoma,Oklahoma State University,"Stillwater, OK", Payne County,Oklahoma
+ Walworth County - Wisconsin,University of Wisconsin - Milwaukee,"Milwaukee, WI", Walworth County,Wisconsin
+ Riverside County - California,University of California - Riverside,"Riverside, CA", Riverside County,California
+ Los Angeles County - California,University of Southern California,"Los Angeles, CA", Los Angeles County,California
+ Cleveland County - Oklahoma,University of Oklahoma,"Norman, OK", Cleveland County,Oklahoma
+ Tolland County - Connecticut,University of Connecticut,"Storrs, CT", Tolland County,Connecticut
+New York City County - New York,CUNY Borough of Manhattan Community College,"New York City, NY",New York City County,New York
+ Riley County - Kansas,Kansas State University,"Manhattan, KS", Riley County,Kansas
+ Orange County - Florida,Full Sail University,"Winter Park, FL", Orange County,Florida
+ Allegheny County - Pennsylvania,University of Pittsburgh,"Pittsburgh, PA", Allegheny County,Pennsylvania
+ Cobb County - Georgia,Kennesaw State University,"Kennesaw, GA", Cobb County,Georgia
+ Isabella County - Michigan,Central Michigan University,"Mount Pleasant, MI", Isabella County,Michigan
+Orange County - North Carolina,University of North Carolina at Chapel Hill,"Chapel Hill, NC",Orange County,North Carolina
