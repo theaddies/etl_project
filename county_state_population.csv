@@ -113,7 +113,7 @@
 111,Santa Cruz,Arizona,46498,Santa Cruz - Arizona
 112,Yavapai,Arizona,235099,Yavapai - Arizona
 113,Yuma,Arizona,213787,Yuma - Arizona
-114,Arkansas,Arkansas,3017804,Arkansas - Arkansas
+114,Arkansas,Arkansas,3017804,ArkansasState - Arkansas
 115,Arkansas,Arkansas,17486,Arkansas - Arkansas
 116,Ashley,Arkansas,19657,Ashley - Arkansas
 117,Baxter,Arkansas,41932,Baxter - Arkansas
@@ -326,7 +326,7 @@
 324,Kent,Delaware,180786,Kent - Delaware
 325,New Castle,Delaware,558753,New Castle - Delaware
 326,Sussex,Delaware,234225,Sussex - Delaware
-327,District of Columbia,District of Columbia,705749,District of Columbia - District of Columbia
+327,District of Columbia,District of Columbia,705749,District of ColumbiaState - District of Columbia
 328,District of Columbia,District of Columbia,705749,District of Columbia - District of Columbia
 329,Florida,Florida,21477737,Florida - Florida
 330,Alachua,Florida,269043,Alachua - Florida
@@ -556,13 +556,13 @@
 554,Wilkes,Georgia,9777,Wilkes - Georgia
 555,Wilkinson,Georgia,8954,Wilkinson - Georgia
 556,Worth,Georgia,20247,Worth - Georgia
-557,Hawaii,Hawaii,1415872,Hawaii - Hawaii
+557,Hawaii,Hawaii,1415872,HawaiiState - Hawaii
 558,Hawaii,Hawaii,201513,Hawaii - Hawaii
 559,Honolulu,Hawaii,974563,Honolulu - Hawaii
 560,Kalawao,Hawaii,86,Kalawao - Hawaii
 561,Kauai,Hawaii,72293,Kauai - Hawaii
 562,Maui,Hawaii,167417,Maui - Hawaii
-563,Idaho,Idaho,1787065,Idaho - Idaho
+563,Idaho,Idaho,1787065,IdahoState - Idaho
 564,Ada,Idaho,481587,Ada - Idaho
 565,Adams,Idaho,4294,Adams - Idaho
 566,Bannock,Idaho,87808,Bannock - Idaho
@@ -607,7 +607,7 @@
 605,Twin Falls,Idaho,86878,Twin Falls - Idaho
 606,Valley,Idaho,11392,Valley - Idaho
 607,Washington,Idaho,10194,Washington - Idaho
-608,Illinois,Illinois,12671821,Illinois - Illinois
+608,Illinois,Illinois,12671821,IllinoisState - Illinois
 609,Adams,Illinois,65435,Adams - Illinois
 610,Alexander,Illinois,5761,Alexander - Illinois
 611,Bond,Illinois,16426,Bond - Illinois
@@ -710,7 +710,7 @@
 708,Williamson,Illinois,66597,Williamson - Illinois
 709,Winnebago,Illinois,282572,Winnebago - Illinois
 710,Woodford,Illinois,38459,Woodford - Illinois
-711,Indiana,Indiana,6732219,Indiana - Indiana
+711,Indiana,Indiana,6732219,IndianaState - Indiana
 712,Adams,Indiana,35777,Adams - Indiana
 713,Allen,Indiana,379299,Allen - Indiana
 714,Bartholomew,Indiana,83779,Bartholomew - Indiana
@@ -803,7 +803,7 @@
 801,Wells,Indiana,28296,Wells - Indiana
 802,White,Indiana,24102,White - Indiana
 803,Whitley,Indiana,33964,Whitley - Indiana
-804,Iowa,Iowa,3155070,Iowa - Iowa
+804,Iowa,Iowa,3155070,IowaState- Iowa
 805,Adair,Iowa,7152,Adair - Iowa
 806,Adams,Iowa,3602,Adams - Iowa
 807,Allamakee,Iowa,13687,Allamakee - Iowa
@@ -903,7 +903,7 @@
 901,Woodbury,Iowa,103107,Woodbury - Iowa
 902,Worth,Iowa,7381,Worth - Iowa
 903,Wright,Iowa,12562,Wright - Iowa
-904,Kansas,Kansas,2913314,Kansas - Kansas
+904,Kansas,Kansas,2913314,KansasState - Kansas
 905,Allen,Kansas,12369,Allen - Kansas
 906,Anderson,Kansas,7858,Anderson - Kansas
 907,Atchison,Kansas,16073,Atchison - Kansas
@@ -1009,7 +1009,7 @@
 1007,Wilson,Kansas,8525,Wilson - Kansas
 1008,Woodson,Kansas,3138,Woodson - Kansas
 1009,Wyandotte,Kansas,165429,Wyandotte - Kansas
-1010,Kentucky,Kentucky,4467673,Kentucky - Kentucky
+1010,Kentucky,Kentucky,4467673,KentuckyState - Kentucky
 1011,Adair,Kentucky,19202,Adair - Kentucky
 1012,Allen,Kentucky,21315,Allen - Kentucky
 1013,Anderson,Kentucky,22747,Anderson - Kentucky
@@ -1130,7 +1130,7 @@
 1128,Whitley,Kentucky,36264,Whitley - Kentucky
 1129,Wolfe,Kentucky,7157,Wolfe - Kentucky
 1130,Woodford,Kentucky,26734,Woodford - Kentucky
-1131,Louisiana,Louisiana,4648794,Louisiana - Louisiana
+1131,Louisiana,Louisiana,4648794,LouisianaState - Louisiana
 1132,Acadia Parish,Louisiana,62045,Acadia Parish - Louisiana
 1133,Allen Parish,Louisiana,25627,Allen Parish - Louisiana
 1134,Ascension Parish,Louisiana,126604,Ascension Parish - Louisiana
@@ -1195,7 +1195,7 @@
 1193,West Carroll Parish,Louisiana,10830,West Carroll Parish - Louisiana
 1194,West Feliciana Parish,Louisiana,15568,West Feliciana Parish - Louisiana
 1195,Winn Parish,Louisiana,13904,Winn Parish - Louisiana
-1196,Maine,Maine,1344212,Maine - Maine
+1196,Maine,Maine,1344212,MaineState - Maine
 1197,Androscoggin,Maine,108277,Androscoggin - Maine
 1198,Aroostook,Maine,67055,Aroostook - Maine
 1199,Cumberland,Maine,295003,Cumberland - Maine
@@ -1212,7 +1212,7 @@
 1210,Waldo,Maine,39715,Waldo - Maine
 1211,Washington,Maine,31379,Washington - Maine
 1212,York,Maine,207641,York - Maine
-1213,Maryland,Maryland,6045680,Maryland - Maryland
+1213,Maryland,Maryland,6045680,MarylandState - Maryland
 1214,Allegany,Maryland,70416,Allegany - Maryland
 1215,Anne Arundel,Maryland,579234,Anne Arundel - Maryland
 1216,Baltimore,Maryland,827370,Baltimore - Maryland
@@ -1237,7 +1237,7 @@
 1235,Wicomico,Maryland,103609,Wicomico - Maryland
 1236,Worcester,Maryland,52276,Worcester - Maryland
 1237,Baltimore city,Maryland,593490,Baltimore city - Maryland
-1238,Massachusetts,Massachusetts,6892503,Massachusetts - Massachusetts
+1238,Massachusetts,Massachusetts,6892503,MassachusettsState - Massachusetts
 1239,Barnstable,Massachusetts,212990,Barnstable - Massachusetts
 1240,Berkshire,Massachusetts,124944,Berkshire - Massachusetts
 1241,Bristol,Massachusetts,565217,Bristol - Massachusetts
@@ -1252,7 +1252,7 @@
 1250,Plymouth,Massachusetts,521202,Plymouth - Massachusetts
 1251,Suffolk,Massachusetts,803907,Suffolk - Massachusetts
 1252,Worcester,Massachusetts,830622,Worcester - Massachusetts
-1253,Michigan,Michigan,9986857,Michigan - Michigan
+1253,Michigan,Michigan,9986857,MichiganState - Michigan
 1254,Alcona,Michigan,10405,Alcona - Michigan
 1255,Alger,Michigan,9108,Alger - Michigan
 1256,Allegan,Michigan,118081,Allegan - Michigan
@@ -1336,7 +1336,7 @@
 1334,Washtenaw,Michigan,367601,Washtenaw - Michigan
 1335,Wayne,Michigan,1749343,Wayne - Michigan
 1336,Wexford,Michigan,33631,Wexford - Michigan
-1337,Minnesota,Minnesota,5639632,Minnesota - Minnesota
+1337,Minnesota,Minnesota,5639632,MinnesotaState - Minnesota
 1338,Aitkin,Minnesota,15886,Aitkin - Minnesota
 1339,Anoka,Minnesota,356921,Anoka - Minnesota
 1340,Becker,Minnesota,34423,Becker - Minnesota
@@ -1424,7 +1424,7 @@
 1422,Winona,Minnesota,50484,Winona - Minnesota
 1423,Wright,Minnesota,138377,Wright - Minnesota
 1424,Yellow Medicine,Minnesota,9709,Yellow Medicine - Minnesota
-1425,Mississippi,Mississippi,2976149,Mississippi - Mississippi
+1425,Mississippi,Mississippi,2976149,MississippiState - Mississippi
 1426,Adams,Mississippi,30693,Adams - Mississippi
 1427,Alcorn,Mississippi,36953,Alcorn - Mississippi
 1428,Amite,Mississippi,12297,Amite - Mississippi
@@ -1859,7 +1859,7 @@
 1857,Torrance,New Mexico,15461,Torrance - New Mexico
 1858,Union,New Mexico,4059,Union - New Mexico
 1859,Valencia,New Mexico,76688,Valencia - New Mexico
-1860,New York,New York,19453561,New York - New York
+1860,New York,New York,19453561,New YorkState - New York
 1861,Albany,New York,305506,Albany - New York
 1862,Allegany,New York,46091,Allegany - New York
 1863,Bronx,New York,1418207,Bronx - New York
@@ -2166,7 +2166,7 @@
 2164,Williams,Ohio,36692,Williams - Ohio
 2165,Wood,Ohio,130817,Wood - Ohio
 2166,Wyandot,Ohio,21772,Wyandot - Ohio
-2167,Oklahoma,Oklahoma,3956971,Oklahoma - Oklahoma
+2167,Oklahoma,Oklahoma,3956971,OklahomaState - Oklahoma
 2168,Adair,Oklahoma,22194,Adair - Oklahoma
 2169,Alfalfa,Oklahoma,5702,Alfalfa - Oklahoma
 2170,Atoka,Oklahoma,13758,Atoka - Oklahoma
@@ -2820,7 +2820,7 @@
 2818,Young,Texas,18010,Young - Texas
 2819,Zapata,Texas,14179,Zapata - Texas
 2820,Zavala,Texas,11840,Zavala - Texas
-2821,Utah,Utah,3205958,Utah - Utah
+2821,Utah,Utah,3205958,UtahState - Utah
 2822,Beaver,Utah,6710,Beaver - Utah
 2823,Box Elder,Utah,56046,Box Elder - Utah
 2824,Cache,Utah,128289,Cache - Utah
@@ -2838,7 +2838,7 @@
 2836,Morgan,Utah,12124,Morgan - Utah
 2837,Piute,Utah,1479,Piute - Utah
 2838,Rich,Utah,2483,Rich - Utah
-2839,Salt Lake,Utah,1160437,Salt Lake - Utah
+2839,Salt Lake,Utah,1160437,Salt Lake  - Utah
 2840,San Juan,Utah,15308,San Juan - Utah
 2841,Sanpete,Utah,30939,Sanpete - Utah
 2842,Sevier,Utah,21620,Sevier - Utah

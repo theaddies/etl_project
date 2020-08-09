@@ -1,9 +1,9 @@
---DROP TABLE RankedSchoolsWithCounty;
---DROP TABLE SchoolCounty;
+
 --DROP TABLE SchoolCases;
 --DROP TABLE CountyStatePopulation;
 --DROP TABLE CovidCountyTestData_7_28_20;
-
+--DROP TABLE SchoolCounty;
+--DROP TABLE RankedSchoolsWithCounty;
 
 CREATE TABLE RankedSchoolsWithCounty (
 RankedSchoolsID int,
@@ -18,9 +18,16 @@ niche_url VARCHAR (255),
 county VARCHAR (255)
 );
   
+CREATE TABLE CountyStatePopulation (
+CountyStateID int,
+county VARCHAR (255),
+state VARCHAR (255),
+population_2019 int,
+county_state VARCHAR (255) Primary Key
+);
 
 CREATE TABLE SchoolCounty (
-county_state VARCHAR (255) PRIMARY KEY,
+county_state VARCHAR (255) REFERENCES CountyStatePopulation(county_state),
 College_Name VARCHAR (255) REFERENCES RankedSchoolsWithCounty(College_Name),
 Location VARCHAR (255),
 county VARCHAR (255),
@@ -30,22 +37,15 @@ state VARCHAR (255)
 
 CREATE TABLE SchoolCases (
 SchoolID int,
-College_Name VARCHAR (255) REFERENCES RankedSchoolsWithCounty(College_Name),
+College_Name VARCHAR (255),
 cases int	
 );
 	
 
-CREATE TABLE CountyStatePopulation (
-CountyStateID int PRIMARY KEY,
-county VARCHAR (255),
-state VARCHAR (255),
-population_2019 int,
-county_state VARCHAR (255) REFERENCES SchoolCounty(county_state)
-);
 
 
 CREATE TABLE CovidCountyTestData_7_28_20 (
-county_state VARCHAR (255) REFERENCES SchoolCounty(county_state),	
+county_state VARCHAR (255) REFERENCES CountyStatePopulation(county_state),	
 state VARCHAR (255),
 county VARCHAR (255),
 name VARCHAR (255),
