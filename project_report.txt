@@ -1,36 +1,49 @@
-The purpose of the project was to collect data necessary
-to investigate the relationship between covid-19 cases
-by county in comparison to the top 100 universities in 
+Team 5
+Andrew Addie
+Cameron Pfahler
+Ruthy Amkraut
+
+Title
+How University student body population relates to Corona Virus cases on campus and to cases within the school county.
+
+Purpose
+Collect data necessary to investigate the relationship between covid-19 
+cases by county in comparison to the top 100 universities in 
 the United States by undergraduate population.  We were curious if there
 would be a correlation between the population size of the county,
 the number of students, and the number of covid-19 cases in the county and the
 university.
 
+Sources
 The sources of data used for the collection of data are as follows:
 1.  https://www.niche.com/blog/the-100-largest-colleges-in-america/
 2.  https://www.whatcountyamiin.com/
 3.  https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_70769902
 4.  https://covid-api.com/api
-- ERD of database
 5.  https://www.nytimes.com/interactive/2020/07/28/us/covid-19-colleges-universities.html
 
-
+Extract and Transform
 The original data was formatted in several ways.
 1.  the data was in an html table.  The website prevented the use of Pandas so the page was scrapped
 to extract the data into a pandas df.  This was then exported to a csv.
 
 The address of each university was included in a page by clicking on the link of each university name.
-Each university name was scraped to collect the address.  This address was used in the next step, step 2.
+Each university name was scraped to collect the address.  This address was added to the dataframe and 
+used in the next step, step 2.
 
 2.  This website was scraped using the address from the tables above.  By entering the address of each
 school the webpage would output the county in which that address was located.  This county along with the
-school name was collected.
+school name was collected.  There were a few errors resulting from incorrect addresses or POboxes.  These were fixed
+on a one by one basis.
 
-The resulting file from steps 1 and 2 is:
+The resulting files from steps 1 are 2 is:
+university_county_list.ipynb
+county_school.ipynb
 ranked_schools_with_county.csv
 
 3.  This data was downloaded from the census website.  It included many, many columns of data.
 The columns chosen to keep were 2019 population, county and state.
+county_state_pop.ipynb
 county_population.csv
 
 4.  The covid data was collected over a time frame of April 1 until August 3.  This included many covid
@@ -38,6 +51,7 @@ related data types for each county in which the 100 schools in item 1 were locat
 of county names overlapping into different states, the key chosen for county was county-state.  This ensured
 there would be a unique name for each county.  Because all other data sets were not time based, we decided
 to fix the date of 7-28-2020 to use for comparison.  This corresponds to the date of the study in item 5.
+covid_data_by_county.ipynb
 covid_county_test_data.csv
 covid_county_test_data_7-28-2020.csv
 
@@ -46,6 +60,7 @@ covid-19 cases for virtually every school in the country as of 7-28-2020.  The l
 of cases from highest to lowest.  We collected the number of cases for each of the schools in the top 100
 list of item 1.  This dataset was not in a table format so it was scraped as well and collected into a dataframe
 and then csv.
+scrape_NYT_article.ipynb
 nyt_scrape.csv
 
 There was an extensive amount of data cleaning required for the data.
@@ -58,11 +73,19 @@ b.  Values in % and integers with "," for thousands needed to be cleaned.
 c.  All of the counties included the word "county" in their name.  This was not necessary and made it difficult
 to match the county-state pairs.  The word "county" was removed.
 
+Database
+
 Looking at the ERD we chose 5 csv files to use for the database.  Inaddition to the raw data we needed to
 have datasets with Keys sufficient to permit a link between county-state and universities, covid cases, and
 population.  We also needed Key to allow the number of cases at the universities to be linked with the
 university population and other data.
 college_county_covid_erd.png
+
+The schema used to create the database in PostreSQL is
+college_county_covid_schema.sql
+
+The csv files above were added to the SQL database with the file
+upload-to-db.ipynb
 
 The collections of data were imported into PostgreSQL to prepare for analysis.  A backup of the database is
 located on github.
