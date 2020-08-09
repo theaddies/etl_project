@@ -1,0 +1,69 @@
+The purpose of the project was to collect data necessary
+to investigate the relationship between covid-19 cases
+by county in comparison to the top 100 universities in 
+the United States by undergraduate population.  We were curious if there
+would be a correlation between the population size of the county,
+the number of students, and the number of covid-19 cases in the county and the
+university.
+
+The sources of data used for the collection of data are as follows:
+1.  https://www.niche.com/blog/the-100-largest-colleges-in-america/
+2.  https://www.whatcountyamiin.com/
+3.  https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_70769902
+4.  https://covid-api.com/api
+- ERD of database
+5.  https://www.nytimes.com/interactive/2020/07/28/us/covid-19-colleges-universities.html
+
+
+The original data was formatted in several ways.
+1.  the data was in an html table.  The website prevented the use of Pandas so the page was scrapped
+to extract the data into a pandas df.  This was then exported to a csv.
+
+The address of each university was included in a page by clicking on the link of each university name.
+Each university name was scraped to collect the address.  This address was used in the next step, step 2.
+
+2.  This website was scraped using the address from the tables above.  By entering the address of each
+school the webpage would output the county in which that address was located.  This county along with the
+school name was collected.
+
+The resulting file from steps 1 and 2 is:
+ranked_schools_with_county.csv
+
+3.  This data was downloaded from the census website.  It included many, many columns of data.
+The columns chosen to keep were 2019 population, county and state.
+county_population.csv
+
+4.  The covid data was collected over a time frame of April 1 until August 3.  This included many covid
+related data types for each county in which the 100 schools in item 1 were located.  As there is the possibility
+of county names overlapping into different states, the key chosen for county was county-state.  This ensured
+there would be a unique name for each county.  Because all other data sets were not time based, we decided
+to fix the date of 7-28-2020 to use for comparison.  This corresponds to the date of the study in item 5.
+covid_county_test_data.csv
+covid_county_test_data_7-28-2020.csv
+
+5.  We were very fortunate to discover a very recent article in the New York Times listing the actual
+covid-19 cases for virtually every school in the country as of 7-28-2020.  The list is ranked by number 
+of cases from highest to lowest.  We collected the number of cases for each of the schools in the top 100
+list of item 1.  This dataset was not in a table format so it was scraped as well and collected into a dataframe
+and then csv.
+nyt_scrape.csv
+
+There was an extensive amount of data cleaning required for the data.
+a.  The university names in the top 100 list and those of the NYT article did not match.  There is not
+standard way of referencing schools at specific locations, e.g. Ohio State - Columbus versus other 
+Ohio State campuses.  The college names were homogenized across the 2 lists.  There were also "-" or " "
+that needed to be either added or removed from the names in addition to the occasionaly "*" used in the
+NYT article for further clarification.
+b.  Values in % and integers with "," for thousands needed to be cleaned.
+c.  All of the counties included the word "county" in their name.  This was not necessary and made it difficult
+to match the county-state pairs.  The word "county" was removed.
+
+Looking at the ERD we chose 5 csv files to use for the database.  Inaddition to the raw data we needed to
+have datasets with Keys sufficient to permit a link between county-state and universities, covid cases, and
+population.  We also needed Key to allow the number of cases at the universities to be linked with the
+university population and other data.
+college_county_covid_erd.png
+
+The collections of data were imported into PostgreSQL to prepare for analysis.  A backup of the database is
+located on github.
+etl_db.bkp
