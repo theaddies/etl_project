@@ -75,9 +75,9 @@ to match the county-state pairs.  The word "county" was removed.
 
 Database
 
-Looking at the ERD we chose 5 csv files to use for the database.  Inaddition to the raw data we needed to
+Looking at the ERD we chose 5 csv files to use for the database.  In addition to the raw data we needed to
 have datasets with Keys sufficient to permit a link between county-state and universities, covid cases, and
-population.  We also needed Key to allow the number of cases at the universities to be linked with the
+population.  We also needed a Key to allow the number of cases at the universities to be linked with the
 university population and other data.
 college_county_covid_erd.png
 
